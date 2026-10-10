@@ -98,7 +98,7 @@ CodeAlpha_CGPA_Calculator/
 
 This project accepts courses, grades, and credit hours; calculates weighted semester GPA and overall CGPA; and displays individual course grades and final results.
 
-## Author
+## Author 
 
 Name : Parth Vairagade
 
