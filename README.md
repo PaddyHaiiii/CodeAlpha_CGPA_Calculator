@@ -100,4 +100,5 @@ This project accepts courses, grades, and credit hours; calculates weighted seme
 
 ## Author
 
-Update this section with your name, course, and internship details before publishing.
+Name : Parth Vairagade
+
